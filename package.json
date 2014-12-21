@@ -1,0 +1,19 @@
+{
+  "name": "node-unixtime",
+  "version": "0.0.0",
+  "description": "intiger units for all timespans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzziizzy/node-unixtime.git"
+  },
+  "author": "izzy",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/yzziizzy/node-unixtime/issues"
+  },
+  "homepage": "https://github.com/yzziizzy/node-unixtime"
+}
